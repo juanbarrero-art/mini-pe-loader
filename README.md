@@ -6,6 +6,8 @@ registrar las tablas de excepciones y saltar al entry point.
 
 Es **material didáctico**. No es un loader endurecido ni una herramienta de producción.
 
+> **Artículo de apoyo:** [Mini-loader en 15 pasos](https://juanbarrero-art.github.io/blog/mini-loader-15-pasos-pe-sin-loadlibrary.html). Este repo implementa el núcleo (pasos 1–13); las extensiones 14–15 se explican en el artículo y no están incluidas aquí.
+
 ![La ruta del loader en 4 fases](docs/diagrams/loader-steps.svg)
 
 ## Estructura
